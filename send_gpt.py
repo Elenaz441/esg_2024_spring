@@ -3,6 +3,7 @@ import g4f
 providers = [
     g4f.Provider.Liaobots,
     g4f.Provider.ChatgptNext,
+    g4f.Provider.FlowGpt
 ]
 
 
